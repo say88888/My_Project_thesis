@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/cplex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/google-maps-services-0.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/http-core-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/jcommon-1.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/okhttp-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/okio-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/say88888/Desktop/Optimization Algorithm_GUI/binjar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,5 @@
+Alpha=0.0
+Delta=0.5
+Tdm=0.0
+Tdm=0.0
+Theta=1.0

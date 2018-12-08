@@ -1,0 +1,13 @@
+Iteration=100
+Iteration_Mode=2
+NP=10
+LP=10
+Execution_Mode=0
+Write_Mode=1
+Vmax=4
+lamda=1.0
+H=5
+Max_NFE=1000.0
+Nmin=4
+MCR=0.5
+MF=0.5

@@ -1,0 +1,6 @@
+Adaptive_Mode_1=1
+Adaptive_Mode_2=0
+Mu=0.0
+Sigma_max=1.0
+Sigma_min=0.1
+G=250.0

@@ -1,0 +1,15 @@
+Iteration=300
+Iteration_Mode=2
+populationSize=10
+w=0.4
+c1=0.4
+c2=0.6
+Vmax=4
+Execution_Mode=0
+Print_Mode=0
+Write_Mode=1
+threshold=0.000010
+PSO_lamda=1.0
+R=20
+L=100
+Local_Search_Iteration=100

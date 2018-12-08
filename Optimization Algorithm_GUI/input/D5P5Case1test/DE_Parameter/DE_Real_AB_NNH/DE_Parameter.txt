@@ -1,0 +1,9 @@
+Iteration=5
+Iteration_Mode=2
+NP=10
+LP=10
+Epsilon=0.0
+Execution_Mode=0
+Write_Mode=1
+Vmax=1
+lamda=1.0

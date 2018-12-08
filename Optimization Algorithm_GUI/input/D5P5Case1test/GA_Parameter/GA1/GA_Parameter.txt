@@ -1,0 +1,14 @@
+Iteration=100
+Iteration_Mode=2
+initialPopulationRate=0.5
+crossoverRate=0.5
+mutationRate=0.5
+tournamentSize=3
+populationSize=50
+threshold=1.0E-8
+Execution_Mode=0
+Print_Mode=0
+SA_Mode=1
+Write_Mode=0
+T=700.0
+Factor_T=0.9

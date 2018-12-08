@@ -1,0 +1,13 @@
+Iteration=1000
+Iteration_Mode=0
+populationSize=20
+w=0.5
+c1=0.4
+c2=0.4
+Vmax=1
+Execution_Mode=1
+Print_Mode=0
+Write_Mode=0
+threshold=1.0E-8
+epsilon=0.3
+micro=50.0

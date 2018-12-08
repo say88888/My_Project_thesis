@@ -1,0 +1,7 @@
+Iteration=5000
+Iteration_Mode=0
+LP=10
+NP=10
+Epsilon=0.0
+Execution_Mode=0
+Write_Mode=1

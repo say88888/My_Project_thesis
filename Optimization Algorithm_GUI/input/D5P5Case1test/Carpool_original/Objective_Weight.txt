@@ -1,0 +1,10 @@
+Omega_1=1.0
+Omega_2=0.0
+Omega_3=0.0
+Omega_4=0.0,司機cp值wp=0.5,乘客cp值wd=0.5,Epsilon1=0.5,Epsilon2=0.5
+Omega_5=0.0
+Omega_6=0.0
+Omega_7=0.0,司機cp值wp=0.5,乘客cp值wd=0.5,Epsilon3=0.5,Epsilon4=0.5
+Omega_8=0.0
+Omega_9=0.0
+Omega_10=0.0

@@ -1,0 +1,11 @@
+Iteration=100
+Iteration_Mode=2
+populationSize=10
+B0=0.9
+Gamma=0.2
+Alpha=0.2
+Execution_Mode=0
+Print_Mode=0
+Write_Mode=1
+threshold=0.000010
+Vmax=1.0

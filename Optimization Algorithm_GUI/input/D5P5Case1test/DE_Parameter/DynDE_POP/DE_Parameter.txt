@@ -1,0 +1,15 @@
+Iteration=100
+Iteration_Mode=2
+NP=10
+Execution_Mode=0
+Write_Mode=1
+Vmax=4
+lamda=1.0
+rcloud=1.0
+Sigma=1.0
+Pmax=2
+S=4
+Mode1=1
+Mode2=1
+Mode3=1
+Mode4=1

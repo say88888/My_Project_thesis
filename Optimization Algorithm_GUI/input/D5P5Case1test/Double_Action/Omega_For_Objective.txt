@@ -1,0 +1,4 @@
+Omega_1=1.0
+Omega_2=0.0
+Omega_3=0.0
+Omega_4=0.0

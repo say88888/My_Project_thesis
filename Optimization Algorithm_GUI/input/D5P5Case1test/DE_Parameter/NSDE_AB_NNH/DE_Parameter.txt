@@ -1,0 +1,8 @@
+Iteration=1000
+Iteration_Mode=2
+NP=10
+LP=10
+Execution_Mode=0
+Write_Mode=1
+Vmax=1
+lamda=1.0

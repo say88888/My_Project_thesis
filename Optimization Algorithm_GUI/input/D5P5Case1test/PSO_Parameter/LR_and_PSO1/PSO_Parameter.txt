@@ -1,0 +1,12 @@
+Iteration=200
+Iteration_Mode=0
+populationSize=10
+w=0.5
+c1=0.5
+c2=0.4
+Vmax=4
+Execution_Mode=0
+Print_Mode=0
+Write_Mode=1
+threshold=1.0E-8
+PSO_lamda=0.1

@@ -1,0 +1,11 @@
+Iteration=10
+Iteration_Mode=0
+x0=0.0
+Epsilon=0.1
+d0=2
+gp=2
+gs=1
+tabu_tenure_model=1
+ClearMaxIter=100.0
+MinTenure=1.0
+MaxTenure=5.0
